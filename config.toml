@@ -20,7 +20,7 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, US"
+address = ""
 author = "Johnathan Smith"
 copyright = ""
 description = "This is meta description"
@@ -28,7 +28,7 @@ email = "carsonueckerherman@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.png"
-phone = "+880 2544 658 256"
+phone = ""
 theme_color = "#41228e"
 [params.contact]
 enable = true
