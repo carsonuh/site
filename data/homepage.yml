@@ -4,7 +4,8 @@ banner:
 about:
   enable: true
   content: 'I''m a Computer Science student with a passion for mobile and web development.
-    My skills range from developing backend code to creating pleasing UI on the frontend.  '
+    My skills range from developing backend code to creating a pleasing UI on the
+    frontend.  '
   button:
     enable: true
     label: know more
